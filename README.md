@@ -7,7 +7,7 @@ Used statistical testing and parametric and nonparametric modeling techniques to
 - Used parametric and nonparametric modeling to model fire size based on various climate and geographical data points
 - Performed statistical testing in order to determine regions and states at risk for increased wildfire size
 
-#### ADD GIF HERE
+<img src="https://raw.githubusercontent.com/hkkelderman/FI-MTBS_Fire_Analysis/main/Images-Used/wildfire_inf.gif" width = "600">
 
 # Project 2: [Flatiron Mod 4 Project - Zillow Time Series](https://github.com/hkkelderman/FI-Zillow-Time-Series)
 I created an AutoRegressive Integrated Moving Average (ARIMA) time series model to determine the best zipcodes for investment. The model was generated using historical median house sales from Zillow all the way back from 1996 from across the entire United States. There were a lot more factors to consider than what what was accounted for with the dataset provided, which is why this particular dataset was a little too simple for predicting solid investments. By only providing the historical median housing sales by zip code, it was hard to calculate things like risk or account for factors that might affect resale value, like economic growth and proximity to amenities. Some basic investment recommendations were made.
