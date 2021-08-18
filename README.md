@@ -7,4 +7,4 @@ Used statistical testing and parametric and nonparametric modeling techniques to
 - Used parametric and nonparametric modeling to model fire size based on various climate and geographical data points
 - Performed statistical testing in order to determine regions and states at risk for increased wildfire size
 
-<img src="Images-Used/wildfire_inf.gif" width = "500"> https://github.com/hkkelderman/FI-MTBS_Fire_Analysis/blob/0f8018b98f9f3bfc53e0effb24aa6a0b3efa36ba/Images-Used/wildfire_inf.gif
+<img src="https://raw.githubusercontent.com/hkkelderman/FI-MTBS_Fire_Analysis/0f8018b98f9f3bfc53e0effb24aa6a0b3efa36ba/Images-Used/wildfire_inf.gif" width = "500">
